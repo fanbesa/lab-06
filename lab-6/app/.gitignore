@@ -1,4 +1,4 @@
-/build
+/build/
 
 !app/build/
 !app/build/dokka/
