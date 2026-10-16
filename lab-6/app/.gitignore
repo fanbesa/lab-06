@@ -1,6 +1,4 @@
-/build/
-
-!app/build/
-!app/build/dokka/
-!app/build/dokka/html/
-!app/build/dokka/html/**
+/build/*
+!/build/dokka/
+!/build/dokka/html/
+!/build/dokka/html/**
